@@ -1,4 +1,4 @@
-Number Formatter
+FIBONACCI
 =========
 
 A small library that takes in n and returns nth series in fibonacci sequence
