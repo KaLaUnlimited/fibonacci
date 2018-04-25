@@ -1,0 +1,23 @@
+{
+  "name": "@kalaunlimited/fibonacci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaLaUnlimited/fibonacci.git"
+  },
+  "author": "Kavodel Lasode <Klasode@gmail.com> (http://www.kavodellasode.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaLaUnlimited/fibonacci/issues"
+  },
+  "homepage": "https://github.com/KaLaUnlimited/fibonacci#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  }
+}
